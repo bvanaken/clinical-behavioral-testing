@@ -1,6 +1,6 @@
 # Behavioral Testing of Clinical NLP Models
 
-This repository contains code for testing the behavior of clinical prediction models based on patient letters. For a detailed description of the testing framework see our paper [What Do You See in this Patient? Behavioral Testing of Clinical NLP Models]().
+This repository contains code for testing the behavior of clinical prediction models based on patient letters. For a detailed description of the testing framework see our paper [What Do You See in this Patient? Behavioral Testing of Clinical NLP Models](https://arxiv.org/abs/2111.15512).
 
 ![From an existing test set we create test groups by altering specific tokens in the clinical note. We then analyse the change in predictions which reveals the impact of the mention on the clinical NLP model.](/img/framework.png)
 
